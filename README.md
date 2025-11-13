@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Heba<br> <br>💻 A passionate Back-End Developer specializing in .NET Core and ASP.NET Core MVC.  <br>💻 I love building scalable web applications and improving database performance.  <br>🚀 Currently working on an E-Commerce platform using ASP.NET Core.  <br>📚 Always learning new technologies and exploring software architecture and APIs.  <br>🔗 Let’s connect and build something great!
+👋 Hi, I'm Heba<br> <br>💻 A passionate Back-End Developer specializing in .NET Core and ASP.NET Core MVC.  <br>💻 I love building scalable web applications and improving database performance.  <br>🚀 Currently working on an my graduation project using ASP.NET Core.  <br>📚 Always learning new technologies and exploring software architecture and APIs.  <br>🔗 Let’s connect and build something great!
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hebanagy15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebanagy15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hebanagy15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
